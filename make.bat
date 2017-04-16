@@ -14,7 +14,6 @@ set SIMU_EXE=simutrans.exe
 
 cd source
 
-rem LOOPからGOTO LOOPまでの間が繰り返し実行されます。
 :LOOP
 
   echo PAk化を実行します
